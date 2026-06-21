@@ -1,6 +1,0 @@
-{
-  "firmware": {
-    "version": "2.2.6",
-    "url": "https://Arief-dusanov21.github.io/ota-xiaozhi/xiaozhi-esp32-s3-V2.2.6.bin"
-  }
-}
