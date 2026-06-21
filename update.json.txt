@@ -1,6 +1,6 @@
 {
   "firmware": {
     "version": "2.2.6",
-    "url": "https://Arief-dusanov21.github.io/FIRMWARE-XAOZHI-ESP32-S3-TFT1.8-ST7735/xiaozhi-esp32-s3-V2.2.6.bin"
+    "url": "https://Arief-dusanov21.github.com/FIRMWARE-XAOZHI-ESP32-S3-TFT1.8-ST7735/xiaozhi-esp32-s3-V2.2.6.bin"
   }
 }
